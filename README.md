@@ -19,12 +19,6 @@
 
 [GLaDOS 项目地址](https://github.com/glados-network/GLaDOS)
 
-[GLaDOS 注册教程](https://dullsword.github.io/2020/11/26/GLaDOS-%E6%B3%A8%E5%86%8C%E6%95%99%E7%A8%8B/)
-
-## 代码说明
-
-[Github Actions GLaDOS自动签到](https://dullsword.github.io/2020/11/20/Github-Actions-GLaDOS%E8%87%AA%E5%8A%A8%E7%AD%BE%E5%88%B0/)
-
 ## 使用说明
 
 ### 一、准备工作
