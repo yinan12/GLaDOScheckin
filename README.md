@@ -11,8 +11,6 @@
 
 - [更新日志](#更新日志)
 
-- [Discuss on GitHub](https://github.com/DullSword/GLaDOS-CheckIn/discussions)
-
 ## GLaDOS
 
 >GLaDOS为用户提供最快速，稳定和安全的端点，使他们充满信心地访问高速国际互联网、Netflix和隐私。
